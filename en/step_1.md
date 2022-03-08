@@ -1,4 +1,4 @@
-To set the pins for multiple switches, use the following code:
+Import Switch from the picozero library then set the pins for multiple switches, use the following code:
 
 --- code ---
 ---
@@ -8,6 +8,8 @@ line_numbers: false
 line_number_start: 1
 line_highlights: 
 ---
+from picozero import Switch
+
 switch_1 = Switch(18)
 switch_2 = Switch(22)
 switch_3 = Switch(28)
