@@ -1,10 +1,10 @@
-title: Set the pins for multiple switches
+title: Définir les broches pour plusieurs commutateurs
 hero_image: images/banner.png
-description: How to set the pins for multiple switches in your Raspberry Pi Pico
+description: Comment définir les broches de plusieurs commutateurs dans ton Raspberry Pi Pico
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-02-14"
 steps:
   - 
-    title: Set the pins for multiple switches
+    title: Définir les broches pour plusieurs commutateurs
