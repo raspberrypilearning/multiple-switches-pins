@@ -1,4 +1,4 @@
-Import Switch from the picozero library then set the pins for multiple switches, use the following code:
+Importe Switch depuis la bibliothèque picozero puis définis les broches pour plusieurs commutateurs, utilise le code suivant :
 
 --- code ---
 ---
@@ -9,4 +9,4 @@ from picozero import Switch
 
 switch_1 = Switch(18) switch_2 = Switch(22) switch_3 = Switch(28) --- /code ---
 
-**Tip**: You might want to give your switches variable names that relate to what they are doing. For example, `red_switch` to turn on a red light.
+**Astuce**: Tu voudras peut-être donner à tes commutateurs des noms de variables qui se rapportent à ce qu'ils font. Par exemple, `interrupteur_rouge` pour allumer un feu rouge.
