@@ -1,3 +1,4 @@
+---
 title: Définir les broches pour plusieurs commutateurs
 hero_image: images/banner.png
 description: Comment définir les broches de plusieurs commutateurs dans ton Raspberry Pi Pico
@@ -6,5 +7,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-14"
 steps:
-  - 
-    title: Définir les broches pour plusieurs commutateurs
+  - title: Définir les broches pour plusieurs commutateurs
